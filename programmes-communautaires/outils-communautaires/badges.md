@@ -13,7 +13,7 @@ Il est possible de collecter des badges, visible sur le [profil](https://discord
 *********************
 <br />
 
-## Les badges des maisons hypesquad <img src= "https://i.discord.fr/N5s.png" width="17" height="17" /> <img src= "https://i.discord.fr/ig0.png" width="17" height="17" /> <img src= "https://i.discord.fr/bVC.png" width="17" height="17" />
+## Les badges des maisons Hypesquad <img src= "https://i.discord.fr/N5s.png" width="17" height="17" /> <img src= "https://i.discord.fr/ig0.png" width="17" height="17" /> <img src= "https://i.discord.fr/bVC.png" width="17" height="17" />
 > *Il y a longtemps, un grand esprit maléfique est sorti de son sommeil et a ravagé la terre. Au moment ou l"humanité en avait besoin, trois héros ont émergé de la lumière et ont vaincu les mauvais esprits. L'humanité était tellement exalté que de nos jours, ces héros sont honorés grâce au programme des maisons HypeSquad.*
 
 <img src="https://i.discord.fr/MIU.png" width="672" height="250" />
@@ -87,7 +87,7 @@ Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un
 
 <br />
 
-**Une spécifité unique à ce badge est son caractère évolutif selon les durées suivantes :**
+**Une spécificité unique de ce badge est son caractère évolutif selon les durées suivantes :**
 <img src="https://i.discord.fr/jZ6.png" width="700" height="175" />
 
 <br />
@@ -97,11 +97,11 @@ Ce badge est attribué aux utilisateurs ayant discord nitro (10$) et boostant un
 
 Ces deux badges sont donnés pour récompenser les membres participants à la chasse aux bugs sur discord et sur le serveur officiel *(toutes les informations sont sur [cet article](https://discord.fr/wiki/programmes-communautaires/testeurs/discord-testers/))*
 
-Plus précisément, le badge ci-dessous est donné à partir du Tiers 4 `Bug Tracker` sur le serveur `Discord Tester`.
+Plus précisément, le badge ci-dessous est donné à partir du Tier 4 `Bug Tracker` sur le serveur `Discord Tester`.
 
 <img src="https://i.discord.fr/74v.png" /> 
 
-Quand à celui-ci, il est donné à partir du Tiers 5 `Bug Terminator` sur le serveur `Discord Tester`.
+Quand à celui-ci, il est donné à partir du Tier 5 `Bug Terminator` sur le serveur `Discord Tester`.
 
 <img src="https://i.discord.fr/e8i.png" />
 
@@ -112,6 +112,6 @@ Quand à celui-ci, il est donné à partir du Tiers 5 `Bug Terminator` sur le se
 ## Le badge Staff Discord <img src= "https://i.discord.fr/BbZ.png" width="17" height="17" />
 <img src="https://i.discord.fr/wcg.png" />
 
-> *Originaire de la région de la baie de San Francisco, cette personne passe la majeure partie de sa semaine au quartier général de Discord en pensant à la prochaine nouveauté à ajouter pour améliorer l'expérience des utilisateurs tout en rêvant au jour ou une machine à crème glacée arrivera dans les locaux*
+> *Originaire de la région de la baie de San Francisco, cette personne passe la majeure partie de sa semaine au quartier général de Discord en pensant à la prochaine nouveauté à ajouter pour améliorer l'expérience des utilisateurs tout en rêvant du jour ou une machine à crème glacée arrivera dans les locaux*
 
-Ce badge est réservé aux employers de discord. Il est possible de postuler sur la [page discord spécifique](https://discord.com/jobs), mais il est nécessaire de pouvoir travailler dans leurs locaux et bien évidemment de parler anglais.
+Ce badge est réservé aux employés de discord. Il est possible de postuler sur la [page discord spécifique](https://discord.com/jobs), mais il est nécessaire de pouvoir travailler dans leurs locaux et bien évidemment de parler anglais.
